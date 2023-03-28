@@ -1,0 +1,24 @@
+Lenovo@DESKTOP-Q6FNLJJ MINGW64 ~/Desktop/Git/SI_2023_lab1_213114 (master)
+$ git log
+commit 04ad52278e4b2d6530ad8691c49275bea2c6fa4a (HEAD -> master, origin/master, origin/bug3)
+Author: Kocevav <veronika.koceva@students.finki.ukim.mk>
+Date:   Tue Mar 28 14:13:59 2023 +0200
+
+    Fix method sumEvenNumbers.
+
+commit 6e3ece16461f556e7d696115fb4c52322ef645fa
+Merge: 9ee7bcd 683a96f
+Author: Kocevav <veronika.koceva@students.finki.ukim.mk>
+Date:   Tue Mar 28 14:16:57 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 683a96fda853d9de0ab6833aa4acdcaa2557e215 (origin/bug2)
+Author: Kocevav <veronika.koceva@students.finki.ukim.mk>
+Date:   Tue Mar 28 14:12:50 2023 +0200
+
+    Fix wrong condition in filterOddNumbers.
+
+commit 9ee7bcdd2473711f73d916abbf5937dc6449f5e2 (origin/bug1)
+Author: Kocevav <veronika.koceva@students.finki.ukim.mk>
+Date:   Tue Mar 28 14:11:46 2023 +0200
